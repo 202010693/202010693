@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Joey</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HELLO%20EVERYONE!&textBg=false&animation=fadeIn"/>
+</p>
+
+<h1 align="center">I'm Joey</h1>
 <h3 align="center">A student from FEU-TECH</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HELLO%20EVRYONE!"/>
-</p>
 <div align="center">
   <img src=https://www.gifcen.com/wp-content/uploads/2022/07/tanjiro-gif-5.gif>
 </div>
