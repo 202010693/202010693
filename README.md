@@ -2,7 +2,7 @@
 <h3 align="center">A student from FEU-TECH</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://www.gifcen.com/wp-content/uploads/2022/07/tanjiro-gif-5.gif)"/>
 </p>
 
 - 💬 Ask me about **my experiences as an IT Student**
