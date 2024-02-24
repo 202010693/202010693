@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A student from FEU-TECH</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - 💬 Ask me about **my experiences as an IT Student**
 
 - 📫 How to reach me **202010693@fit.edu.ph**
