@@ -24,8 +24,9 @@
 </br>
 </div>
 
-<div align="center">
 ## Stats Available
+
+<div align="center">
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=202010693&theme=dracula&show_icons=true&hide_border=false&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=202010693&theme=dracula&hide_border=false' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=202010693&theme=dracula&show_icons=true&hide_border=false&layout=compact' />
